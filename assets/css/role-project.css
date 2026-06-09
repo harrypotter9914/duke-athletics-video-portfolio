@@ -255,6 +255,7 @@ nav a:hover, nav a:focus-visible {
 .role-athletics-detail .project-hero-card::before, .role-athletics-detail .case-card::before { height: 6px; background: linear-gradient(90deg,#fff,#8ec5ff,#fff); }
 .role-athletics-detail .project-hero h1 { text-transform: uppercase; letter-spacing: -.045em; }
 .role-athletics-detail .project-metric-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+.role-athletics-detail .convention-metric-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
 .role-athletics-detail .project-metric { border-radius: 12px; text-transform: uppercase; }
 .role-athletics-detail .case-card, .role-athletics-detail .gallery-card, .role-athletics-detail #project-video .container, .role-athletics-detail #project-images .container, .role-athletics-detail #project-code .container { border-radius: 14px; }
 .role-athletics-detail .enhanced-gallery, .role-athletics-detail .image-gallery { grid-template-columns: repeat(auto-fit, minmax(240px,1fr)); }
